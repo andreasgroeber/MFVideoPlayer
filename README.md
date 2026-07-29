@@ -21,7 +21,6 @@ Andreas Gröber
 - Fortschrittsanzeige über eine Zeitleiste (Slider)
 - Anzeige der aktuellen Position und Gesamtdauer des Videos sowie die Videogeschwinigkeit
 - Änderung der Wiedergabegeschwindigkeit über das Mausrad
-- 
 - Menüleiste mit Datei öffnen und Programm schließen
 
 ## Geplante Erweiterungen (2.0)
